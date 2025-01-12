@@ -1,0 +1,283 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica;
+}
+
+:root {
+    --main-bg-color: rgb(140, 119, 149);
+    --secondary-bg-color: rgb(235, 230, 236);
+    --tertiary-bg-color: midnightblue;
+    --main-font-color: rgb(14, 14, 65);
+    --secondary-font-color: mintcream;
+    --tertiary-font-color: seagreen
+}  
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main-bg-color: rgb(35, 30, 37);
+        --secondary-bg-color: rgb(72, 60, 83);
+        --main-font-color: white;
+        --tertiary-font-color: lightgreen;
+    }
+}
+
+body{
+    min-height: 100vh;
+    margin: 0px;
+    background-image: url("images/UI/tubaros_fundo.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    position: -webkit-sticky;
+    background-color: var(--main-bg-color);
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    z-index: 5;
+}
+
+header > div{
+    padding: 1vh;
+}
+
+#abas {
+    display: flex;
+    font-size: .85rem;
+}
+
+#abas > h2 {
+    margin-right: .5vw;
+    padding: 5px;
+    background-color: var(--secondary-bg-color);
+    border-radius: 10px;
+    text-overflow: ellipsis;
+    color: var(--main-font-color);
+}
+
+#abas > h2:hover{
+    cursor: pointer;
+}
+
+#icones-header{
+    display: flex;
+    align-items: center;
+}
+
+#rss{
+    max-width: 2rem;
+    margin-right: .5vw;
+}
+
+#img-rss {
+    max-width: 100%;
+}
+
+#img-rss:hover{
+    cursor: pointer;
+}
+
+#linguas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+#linguas a{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#outras-linguas {
+    display: none;
+    background-color: var(--main-bg-color);
+    position: absolute;
+    flex-direction: column;
+    top: 100%;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.lingua {
+    cursor: pointer;
+}
+
+.lingua-atual{
+    cursor: default;
+    text-shadow: 0px 0px 5px white;
+}
+
+.lingua-inativa{
+    filter: grayscale(100%);
+    cursor:default
+}
+
+header a{
+    text-decoration: none;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+#categorias {
+    display: flex;
+    margin-bottom: 1vh;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.categoria{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: var(--main-font-color);
+    background-color: var(--secondary-bg-color);
+}
+
+.categoria:hover{
+    cursor: pointer;
+    animation-name: sombrinha;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+
+.cate-selecionada{
+    color: var(--secondary-font-color);
+    background-color: var(--main-bg-color);
+}
+
+.cate-selecionada:hover{
+    cursor: default;
+    animation: none;
+}
+
+.post{
+    color: var(--main-font-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1vw;
+    padding-top: 0;
+    background-color: var(--secondary-bg-color);
+    border-radius: 10px;
+    margin-bottom: 1vh;
+}
+
+.post > h2 {
+    padding: 5px;
+}
+
+.invisivel{
+    display: none;
+}
+
+.img-posts, .iframe-posts{
+    max-width: 100%;
+    border: .5vw solid var(--tertiary-bg-color);
+    border-radius: 5px;
+}
+
+#posts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1vh;
+    max-width: 100%;
+}
+
+.rodape{
+    margin-top: 10px;
+    justify-self: flex-end;
+    align-self: flex-end;
+}
+
+#seguindo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#seguindo a {
+    margin-right: .25rem;
+    margin-left: .25rem;
+}
+
+@media (width >= 1280px) {
+    .post{
+        width: 50vw;
+    }
+    #modal {
+        height: 50vw;
+    }
+}
+
+@media (width < 1280px) {
+    .post{
+        width: 75vw;
+    }
+    #modal {
+        width: 75vw;
+    }
+}
+
+@media (width <= 640px) {
+    .categoria{
+        font-size: .65rem;
+    }
+    .post{
+        width: 90vw;
+        font-size: 1rem;
+    }
+    #modal {
+        width: 90vw;
+    }
+    #linguas {
+        font-size: .85rem;
+    }
+}
+
+.cards{
+    margin: 5px; 
+}
+
+#botaoT{
+    visibility: hidden;
+}
+
+#modal{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.expandivel{
+    cursor: pointer;
+}
+
+@keyframes sombrinha {
+    0%{
+        box-shadow: 0px 0px 0px white;
+    }
+
+    100%{
+        box-shadow: 0px 0px 10px white;
+    }
+}

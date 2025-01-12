@@ -1,0 +1,44 @@
+#titulo{
+    color: var(--secondary-font-color);
+}
+
+#posts {
+    background-color: var(--main-bg-color);
+    padding: 5px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.blost {
+    background-color: var(--secondary-bg-color);
+    width: 100%;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    justify-content: end;
+    margin: .5vh;
+}
+
+.blost a{
+    text-align: start;
+    justify-self: start;
+    color: var(--tertiary-font-color);
+}
+
+.titulo-blost {
+    padding: 5px;
+    display: block;
+    overflow: hidden;
+}
+
+.titulo-blost h3 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.rodape {
+    justify-self: end;
+    align-self: flex-end;
+    padding: 5px;
+}

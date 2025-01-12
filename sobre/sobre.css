@@ -1,0 +1,18 @@
+.post {
+    margin-top: 1vh;
+    background-color: var(--main-bg-color);
+    color: var(--secondary-font-color);
+}
+
+#texto {
+    background-color: var(--secondary-bg-color);
+    color: var(--main-font-color);
+    max-width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.link {
+    color: var(--tertiary-font-color);
+    text-decoration: none;
+}
