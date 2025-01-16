@@ -2,6 +2,15 @@
     margin: 0px;
     padding: 0px;
     font-family: Helvetica;
+    cursor: url(fontes/cursores/cursor1.cur), default;
+}
+
+button{
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
+}
+
+a{
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
 }
 
 :root {
@@ -66,7 +75,7 @@ header > div{
 }
 
 #abas > h2:hover{
-    cursor: pointer;
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
 }
 
 #icones-header{
@@ -84,7 +93,7 @@ header > div{
 }
 
 #img-rss:hover{
-    cursor: pointer;
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
 }
 
 #linguas{
@@ -110,7 +119,7 @@ header > div{
 }
 
 .lingua {
-    cursor: pointer;
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
 }
 
 .lingua-atual{
@@ -133,6 +142,7 @@ footer{
     align-items: center;
     justify-content: center;
     width: 100vw;
+    padding-bottom: 5vh;
 }
 
 #categorias {
@@ -151,7 +161,7 @@ footer{
 }
 
 .categoria:hover{
-    cursor: pointer;
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
     animation-name: sombrinha;
     animation-duration: .5s;
     animation-fill-mode: forwards;
@@ -269,7 +279,7 @@ footer{
 }
 
 .expandivel{
-    cursor: pointer;
+    cursor: url(fontes/cursores/cursor2.cur), pointer;
 }
 
 @keyframes sombrinha {

@@ -51,3 +51,7 @@
     height: 100%;
     border: none;
 }
+
+a {
+    color: var(--tertiary-font-color);
+}
