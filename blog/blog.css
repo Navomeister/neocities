@@ -35,7 +35,7 @@
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    cursor: url(/fontes/cursores/cursor2.cur), pointer;
+    cursor: url(/fontes/cursores/cursor2.png), pointer;
 }
 
 .rodape {

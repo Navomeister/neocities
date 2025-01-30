@@ -1,13 +1,16 @@
 const linguas = document.getElementsByClassName("lingua");
 
 document.addEventListener("DOMContentLoaded", () => 
-    document.getElementById("linguas").addEventListener("click", () => expandeLinguas())
+    presetLinguas()
 )
 
-for (let i = 0; i < linguas.length; i++) {
-    const lingua = linguas[i];
-    if (!lingua.classList.contains("lingua-inativa") && !lingua.classList.contains("lingua-atual")) {
-        lingua.addEventListener("click", () => mudaLingua(lingua.id))
+function presetLinguas() {
+    document.getElementById("linguas").addEventListener("click", () => expandeLinguas())
+    for (let i = 0; i < linguas.length; i++) {
+        const lingua = linguas[i];
+        if (!lingua.classList.contains("lingua-inativa") && !lingua.classList.contains("lingua-atual")) {
+            lingua.addEventListener("click", () => mudaLingua(lingua.id))
+        }
     }
 }
 

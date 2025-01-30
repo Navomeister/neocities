@@ -1,0 +1,124 @@
+const header = document.getElementsByTagName("header")[0];
+const footer = document.getElementsByTagName("footer")[0];
+const linguaPag = document.documentElement.lang
+console.log(linguaPag);
+
+
+document.addEventListener("DOMContentLoaded", () => 
+    preset(linguaPag)
+)
+
+function preset(lingua) {
+    footer.innerHTML = 
+            `<div id="cards">
+                <a href="https://mykocalico.neocities.org/buttons" class="cards"><img src="https://64.media.tumblr.com/0d4db0b90d2cfee79a934ce56163a0b9/298a6b99507e35eb-e4/s100x200/397c38c3259c7bbb0143a3614646f348c9cb3b57.gif"></a>    
+                <a href="/images/UI/card.gif" target="_blank" class="cards"><img src="/images/UI/card.gif"></a>
+            </div>
+            <div id="seguindo">
+                <a href="https://jkap.io"><img src="https://files.crime.team/site/jkap-88x31.gif"></a>
+                <a href="https://blog.curiousquail.com" target="new"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/quailblog_8831.png" width="88" height="31" alt="small icon that reads QUAILBLOG with an image of a character with a beak"></a>
+                <a href="https://blog.radicaldream.land"><img src="https://i.postimg.cc/QxhG798p/dispatchblog-banner.gif"></a>
+                <a href="https://blog.aurahack.jp"><img src="https://aurahack.neocities.org/88x31.gif"></a>
+                <a href="https://sharkaeopteryx.neocities.org/"><img src="/images/UI/shark-button.png"></a>
+                <a href="https://pedipanol.bearblog.dev"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/pedipanol/sariatrain1x.gif"></a>
+                <a href="https://damien.zone" title="damien dot zone"><img src="https://damien.zone/public/88x31_damien.png" alt="damien dot zone" style="image-rendering:pixelated;" /></a>
+                <a href='https://nekoraita.art.br' target='_blank'><img src='https://nekoraita.art.br/static/resources/button.png'></a>
+            </div>`
+    switch (lingua) {
+        case "en":
+            header.innerHTML = 
+            `<div id="abas">
+                <h2 onclick="window.location.href = '/eng.html'">Things</h2>
+                <h2 onclick="window.location.href = '/blog/eng.html'">Blog</h2>
+                <h2 onclick="window.location.href = '/sobre/eng.html'">About</h2>
+            </div>
+            <div id="icones-header">
+                <div id="rss">
+                    <a href="/feed-en.xml" target="_blank">
+                        <img id="img-rss" src="/images/UI/rss.png" alt="ícone rss">
+                    </a>
+                </div>
+                <div id="linguas">
+                    <a id="eng" class="lingua lingua-atual"><h1>&#x1f1ec;&#x1f1e7;</h1></a>
+                    <div id="outras-linguas">
+                        <a id="pt-br" class="lingua"><h1>&#x1f1e7;&#x1f1f7;</h1></a>
+                        <a id="esp" class="lingua"><h1>&#x1f1ea;&#x1f1f8;</h1></a>
+                        <a id="jap" class="lingua"><h1>&#x1f1ef;&#x1f1f5;</h1></a>
+                    </div>
+                </div>
+            </div>`
+            break;
+    
+        case "es":
+            header.innerHTML = 
+            `<div id="abas">
+                <h2 onclick="window.location.href = '/esp.html'">Producciones</h2>
+                <h2 onclick="window.location.href = '/blog/esp.html'">Blog</h2>
+                <h2 onclick="window.location.href = '/sobre/esp.html'">Sobre</h2>
+            </div>
+            <div id="icones-header">
+                <div id="rss">
+                    <a href="/feed-es.xml" target="_blank">
+                        <img id="img-rss" src="/images/UI/rss.png" alt="ícone rss">
+                    </a>
+                </div>
+                <div id="linguas">
+                    <a id="esp" class="lingua lingua-atual"><h1>&#x1f1ea;&#x1f1f8;</h1></a>
+                    <div id="outras-linguas">
+                        <a id="pt-br" class="lingua"><h1>&#x1f1e7;&#x1f1f7;</h1></a>
+                        <a id="eng" class="lingua"><h1>&#x1f1ec;&#x1f1e7;</h1></a>
+                        <a id="jap" class="lingua"><h1>&#x1f1ef;&#x1f1f5;</h1></a>
+                    </div>
+                </div>
+            </div>`
+            break;
+    
+        case "ja":
+            header.innerHTML = 
+            `<div id="abas">
+                <h2 onclick="window.location.href = '/jap.html'">作品</h2>
+                <h2 onclick="window.location.href = '/blog/jap.html'">ブログ</h2>
+                <h2 onclick="window.location.href = '/sobre/jap.html'">ついて</h2>
+            </div>
+            <div id="icones-header">
+                <div id="rss">
+                    <a href="/feed-ja.xml" target="_blank">
+                        <img id="img-rss" src="/images/UI/rss.png" alt="ícone rss">
+                    </a>
+                </div>
+                <div id="linguas">
+                    <a id="jap" class="lingua lingua-atual"><h1>&#x1f1ef;&#x1f1f5;</h1></a>
+                    <div id="outras-linguas">
+                        <a id="pt-br" class="lingua"><h1>&#x1f1e7;&#x1f1f7;</h1></a>
+                        <a id="esp" class="lingua"><h1>&#x1f1ea;&#x1f1f8;</h1></a>
+                        <a id="eng" class="lingua"><h1>&#x1f1ec;&#x1f1e7;</h1></a>
+                    </div>
+                </div>
+            </div>`
+            break;
+    
+        default:
+            header.innerHTML = 
+            `<div id="abas">
+                <h2 onclick="window.location.href = '/index.html'">Produções</h2>
+                <h2 onclick="window.location.href = '/blog/index.html'">Blog</h2>
+                <h2 onclick="window.location.href = '/sobre/index.html'">Sobre</h2>
+            </div>
+            <div id="icones-header">
+                <div id="rss">
+                    <a href="/feed.xml" target="_blank">
+                        <img id="img-rss" src="/images/UI/rss.png" alt="ícone rss">
+                    </a>
+                </div>
+                <div id="linguas">
+                    <a id="pt-br" class="lingua lingua-atual"><h1>&#x1f1e7;&#x1f1f7;</h1></a>
+                    <div id="outras-linguas">
+                        <a id="esp" class="lingua"><h1>&#x1f1ea;&#x1f1f8;</h1></a>
+                        <a id="eng" class="lingua"><h1>&#x1f1ec;&#x1f1e7;</h1></a>
+                        <a id="jap" class="lingua"><h1>&#x1f1ef;&#x1f1f5;</h1></a>
+                    </div>
+                </div>
+            </div>`
+            break;
+    }
+}
