@@ -1,7 +1,13 @@
 const header = document.getElementsByTagName("header")[0];
 const footer = document.getElementsByTagName("footer")[0];
 const linguaPag = document.documentElement.lang
-console.log(linguaPag);
+
+const aquario = document.createElement("div")
+aquario.id = "aquario"
+
+const cola = document.createElement("div")
+cola.id = "colaAquario"
+cola.appendChild(aquario)
 
 
 document.addEventListener("DOMContentLoaded", () => 
@@ -120,5 +126,54 @@ function preset(lingua) {
                 </div>
             </div>`
             break;
+    }
+
+    document.body.prepend(cola)
+    peixadas()
+}
+
+function peixadas(){
+    const urls = ["/images/UI/anaoNadando.gif", "/images/UI/cobraNadando.gif", "/images/UI/fatasmaNadando.gif", "/images/UI/goblinNadando.gif"]
+    var populacao = 5
+    
+    for (let index = 0; index < populacao; index++) {
+        const aquario = document.querySelector("#aquario")
+        urls.forEach(url => {
+            // cria a div que vai ter a animação
+            const tubarao = document.createElement("div")
+            tubarao.classList = "tubaroes"
+    
+            // randomiza o tempo de nado e local do tubarão (se conseguir fazer o tempo randomizar na função, trocar pela função)
+            const tempoNadando = 15 + (20 * Math.random())
+            const tempoDelay = 10 * Math.random()
+            tubarao.style.animation = "nadando "+ tempoNadando +"s linear "+ tempoDelay +"s infinite alternate"
+            const altura = (110 * Math.random()) - 10
+            tubarao.style.top = altura + "%"
+            
+            // eventListener pra randomizar toda vez que terminar uma iteração
+            tubarao.addEventListener("animationiteration", () => randomiza(tubarao))
+            
+            const imgTubaro = document.createElement("img")
+            imgTubaro.src = url
+            imgTubaro.classList = "tubarao"
+            if (url.includes("anao")) {
+                imgTubaro.classList.add("pequeno")
+                
+            }
+            
+            tubarao.appendChild(imgTubaro)
+            aquario.appendChild(tubarao)
+        });
+    }
+    function randomiza(tubarao) {
+        const altura = (110 * Math.random()) - 10
+        tubarao.style.top = altura + "%"
+        const img = tubarao.querySelector(".tubarao")
+    
+        if (img.classList.contains("flip")) {
+            img.classList.remove("flip")
+        } else {
+            img.classList.add("flip")
+        }
     }
 }
