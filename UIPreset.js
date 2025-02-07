@@ -147,15 +147,13 @@ function peixadas(){
             const tempoNadando = 15 + (20 * Math.random())
             const tempoDelay = 10 * Math.random()
             tubarao.style.animation = "nadando "+ tempoNadando +"s linear "+ tempoDelay +"s infinite alternate"
-            const altura = (110 * Math.random()) - 10
-            tubarao.style.top = altura + "%"
             
             // eventListener pra randomizar toda vez que terminar uma iteração
             tubarao.addEventListener("animationiteration", () => randomiza(tubarao))
             
             const imgTubaro = document.createElement("img")
             imgTubaro.src = url
-            imgTubaro.classList = "tubarao"
+            imgTubaro.classList = "tubarao flip"
             if (url.includes("anao")) {
                 imgTubaro.classList.add("pequeno")
                 
@@ -163,12 +161,22 @@ function peixadas(){
             
             tubarao.appendChild(imgTubaro)
             aquario.appendChild(tubarao)
+            randomiza(tubarao)
         });
     }
     function randomiza(tubarao) {
         const altura = (110 * Math.random()) - 10
-        tubarao.style.top = altura + "%"
+        var profundidade = 150 - (Math.random() * 100)
         const img = tubarao.querySelector(".tubarao")
+
+        if (img.classList.contains("pequeno")) {
+            img.style.scale = (profundidade - 25) + "%"
+        } else {
+            img.style.scale = profundidade + "%"
+        }
+        img.style.opacity = profundidade + "%"
+        
+        tubarao.style.top = altura + "%"
     
         if (img.classList.contains("flip")) {
             img.classList.remove("flip")
