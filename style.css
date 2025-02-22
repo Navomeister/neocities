@@ -70,7 +70,7 @@ body{
 
 .tubaroes{
     /* background-color: rgba(0, 255, 85, 0.438); */
-    left: -25%;
+    left: -2000px;
     position: absolute;
     /* animation: nadando 10s linear infinite running; */
 }
@@ -281,6 +281,26 @@ footer{
     #modal {
         height: 50vw;
     }
+
+    @keyframes nadando {
+        0%{
+            left: -25%;
+            transform: translateY(-20px);
+        }
+        25% {
+            transform: translateY(20px);
+        }
+        50% {
+            transform: translateY(-20px);
+        }
+        75%{
+            transform: translateY(20px);
+        }
+        100%{
+            left: 125%;
+            transform: translateY(-20px);
+        }
+    }
 }
 
 @media (width < 1280px) {
@@ -289,6 +309,26 @@ footer{
     }
     #modal {
         width: 75vw;
+    }
+
+    @keyframes nadando {
+        0%{
+            left: -30%;
+            transform: translateY(-20px);
+        }
+        25% {
+            transform: translateY(20px);
+        }
+        50% {
+            transform: translateY(-20px);
+        }
+        75%{
+            transform: translateY(20px);
+        }
+        100%{
+            left: 125%;
+            transform: translateY(-20px);
+        }
     }
 }
 
@@ -305,6 +345,26 @@ footer{
     }
     #linguas {
         font-size: .85rem;
+    }
+
+    @keyframes nadando {
+        0%{
+            left: -50%;
+            transform: translateY(-20px);
+        }
+        25% {
+            transform: translateY(20px);
+        }
+        50% {
+            transform: translateY(-20px);
+        }
+        75%{
+            transform: translateY(20px);
+        }
+        100%{
+            left: 125%;
+            transform: translateY(-20px);
+        }
     }
 }
 
@@ -334,25 +394,5 @@ footer{
 
     100%{
         box-shadow: 0px 0px 10px white;
-    }
-}
-
-@keyframes nadando {
-    0%{
-        left: -25%;
-        transform: translateY(-20px);
-    }
-    25% {
-        transform: translateY(20px);
-    }
-    50% {
-        transform: translateY(-20px);
-    }
-    75%{
-        transform: translateY(20px);
-    }
-    100%{
-        left: 125%;
-        transform: translateY(-20px);
     }
 }
