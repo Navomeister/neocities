@@ -212,6 +212,10 @@ footer{
     animation-fill-mode: forwards;
 }
 
+.categoria > *:hover{
+    cursor: url(fontes/cursores/cursor2.png), pointer;
+}
+
 .cate-selecionada{
     color: var(--secondary-font-color);
     background-color: var(--main-bg-color);
@@ -220,6 +224,10 @@ footer{
 .cate-selecionada:hover{
     cursor: default;
     animation: none;
+}
+
+.cate-selecionada > *:hover {
+    cursor: url(fontes/cursores/cursor1.png), default;
 }
 
 .post{
@@ -246,6 +254,14 @@ footer{
     max-width: 100%;
     border: .5vw solid var(--tertiary-bg-color);
     border-radius: 5px;
+}
+
+.link-posts{
+    padding-right: 1vw;
+}
+
+.img-link:hover{
+    cursor: url(fontes/cursores/cursor2.png), pointer;
 }
 
 #posts{
