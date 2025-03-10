@@ -7,21 +7,128 @@
         <description>Aqui é onde eu boto as coisa que eu faço</description>
         <language>pt-br</language>
             <item>
+                <title>Relatório #4</title>
+                <pubDate>Mon, 10 Mar 2025 13:52:54 -0300</pubDate>
+                <link>https://navo.neocities.org/blog/blosts/blost13/index.html</link>
+                <guid>https://navo.neocities.org/blog/blosts/blost13/index.html</guid>
+                <description>
+                    Oiooooooooooooooooooooooi :D &lt;br&gt;
+                    Estou aqui pra mais um Relatório do que Tenho Feito Esses Tempos™. Tem até que bastante coisinha acho. Pro normal pra mim XD &lt;br&gt;
+                    &lt;br&gt;
+                    Vou falar sobre em ordem cronológica que se pá fica mais fácil de lembrar. &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;19/01 ~ 30/01&lt;/h6&gt;
+                    Temos o &lt;a href="https://navomusicas.bandcamp.com/track/sillytypebeat-wav"&gt;sillytypebeat.wav&lt;/a&gt;, que foi meu primeiro uso de 
+                    vocaloid em música !! (apesar de ser só uns backing vocal mal feito :P) &lt;br&gt;
+                    Foi uma musiquinha que surgiu meio do nada, só nas brincadeiras mesmo. Uma coisa que me fez querer começar a fazer música é 
+                    usar samples engraçadinhas no meio dela (e ficar bom), como tem em 
+                    &lt;a href="https://music.youtube.com/watch?v=AYzh3blu010&si=QTNenQN2kHH1N73Y"&gt;algumas&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=7F4bV_eIZfM&si=1FPsKG_UozcaWuMr"&gt;músicas&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=E9PGNRcbx-o&si=0P9Gt8DiGVNO5Sfs"&gt;que&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=ptuTUNGxVng&si=_j6bdBf_kdB-FUXR"&gt;ouço&lt;/a&gt;. Sim eu sei que algumas tem letras questionáveis. 
+                    Mas a música em que a letra está inserida é legal eu juro. &lt;br&gt;
+                    Meu nível em mixagem ainda num tá me satisfazendo, mas um ano de autodidatismo (mal feito) é pouca coisa pra conseguir fazer 
+                    algo de qualidade. Entãaaaaao me escorarei nessa desculpa mais um tempinho aí até me satisfazer com o que faço :D &lt;br&gt;
+                    Em compensação eu acho que minha noção de timing tá boazinha até. As coisas parecem encaixar pelo menos. &lt;br&gt;
+                    &lt;br&gt;
+                    Tem outra aqui que envolve Calma Calabreso e meiaum música mas eu não curti o suficiente pra mostrar. Se eu refizer algum dia 
+                    aparece em algum lugar XD &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;06/02&lt;/h6&gt;
+                    Depois disso temos os tubarões nadando ali no fundo :D &lt;br&gt;
+                    são as mesmas espécies que tinha no fundo anterior, só redesenhei cada um com dois frames pra uma animaçãozinha de nadar 
+                    e dale. Como eu quero deixar esse site simples, eu fiz toda a movimentação em CSS, o JS só lida com a criação e giro. &lt;br&gt;
+                    Se você já deixou o site aberto em segundo plano por algum tempo, deve ter percebido que as vezes eles nadam de costas. 
+                    Éeeeeeee....... Não é bug, é feature. com certeza. &lt;br&gt;
+                    Isso acontece porque o giro acontece por iteração da animação, aí como a página fica em suspensão pra liberar RAM dá uma 
+                    bugadinha. &lt;br&gt;
+                    A aleatorização de tamanho e opacidade é pra dar impressão de profundidade, ideia do &lt;a href="https://www.nekoraita.art.br"&gt;Neko&lt;/a&gt;. 
+                    &lt;br&gt; &lt;br&gt;
+                    &lt;h6&gt;11/02&lt;/h6&gt;
+                    Depois tem outra música! Essa foi feita em 3 horinhas. Fiz pra testar uns VSTs que tinha baixado. É bem simplinha e não atingiu o 
+                    objetivo que eu queria, que era ser algo meio bossa nova, mas eu gosteizinho até.
+                    &lt;br&gt;
+                    &lt;audio src="https://f.feridinha.com/UZ5yQ.wav" controls class="audio-blost"&gt;&lt;/audio&gt;
+                    &lt;br&gt;
+                    Sempre que eu tento fazer uma melodia meio bossa eu estranho esse piano. Tem algo que eu to errando aí além do tom e tem a ver com a 
+                    percurssão (acho). Nem cheguei a fazer a outra parte do piano, que seria meio que a "voz principal", então tá faltando isso também. 
+                    &lt;br&gt;
+                    Enfim, deu pra testar alguns dos VSTs e eu gostei deles, então é uma vitória!! &lt;br&gt;
+                    &lt;br&gt;
+                    Nessa data eu também comecei uma animação que eu TENHO que voltar a fazer logo. Tenho um "storyboard" dela aqui pra mostrar peraí.&lt;br&gt;
+                    &lt;video src="https://f.feridinha.com/SW9rS.mp4" controls class="video-blost"&gt;&lt;/video&gt;
+                    &lt;br&gt;
+                    É pra ser algo &lt;strong&gt;simples&lt;/strong&gt;. Vamo ver se eu mantenho &lt;strong&gt;simples&lt;/strong&gt; e sem &lt;strong&gt;complicar&lt;/strong&gt;. &lt;br&gt;
+                    E um desenho grandinho de OCs, também em processo. E que também preciso &lt;strong&gt;voltar logo&lt;/strong&gt; a fazer. Não tem preview 
+                    porque tá no meio da line então meio peba pra mostrar.&lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;23/02&lt;/h6&gt;
+                    A &lt;a href="https://github.com/Navomeister/musicathon/"&gt;Caixa de Música Subathônica&lt;/a&gt;!! &lt;br&gt;
+                    Projeto rapidinho de uns 2 dias, seria mais legal se fosse numa caixa de música de verdade mas eu sou do clube do software, não 
+                    do hardware :P &lt;br&gt;
+                    Algumas fontes engraçadas bugam por não ter caractere, mas deixei porque achei engraçado também. Só não olha o 
+                    &lt;strong&gt;console&lt;/strong&gt; do site pra manter sua sanidade intacta. &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;18/02 ~ 04/03&lt;/h6&gt;
+                    Chegamos à data de escrita desse blost, e à mais nova adição na página principal! &lt;br&gt;
+                    &lt;video src="https://f.feridinha.com/LyD1t.mp4" controls class="video-blost"&gt;&lt;/video&gt;
+                    &lt;br&gt;
+                    É um cover estudo pra aprender a usar vocaloid, mas eu &lt;strong&gt;compliquei&lt;/strong&gt; isso mais do que deveria. Acho que dá pra perceber 
+                    mas eu &lt;strong&gt;não edito&lt;/strong&gt; vídeo. Não é um dos meus hobbies/interesses. Mas é algo que eu vou ter que aprender pra melhorar 
+                    outros, provavelmente. Eu to fazendo tanta coisa e tão pouco ao mesmo tempo........................................ &lt;br&gt; 
+                    Eu já mudei os vocais depois de exportar o vídeo umas 3 vezes, e ainda tem coisa que eu acho pra mudar ouvindo de novo. Mas eu nunca 
+                    vou sair desse &lt;strong&gt;estudo&lt;/strong&gt; se eu ficar nisso. Tenho que guardar o perfeccionismo pra &lt;strong&gt;projetos completos&lt;/strong&gt; 
+                    e não &lt;strong&gt;estudos&lt;/strong&gt;. &lt;br&gt;
+                    Enfim, o &lt;a href="/images/desenhos/テトを上げな.png"&gt;desenho&lt;/a&gt; caso queiram ver algo mais de perto (não recomendado) &lt;br&gt;
+                    &lt;br&gt;
+                    Além disso, claro, estou ainda estudando japonês. Apesar de que o Dragon Quest tá meio de lado faz um tempo... Eu lembrava de ele ser 
+                    mais divertido, mas acho que rejogar o mesmo início pela 3ª vez me quebrou um pouco as perna. Na primeira travadinha que dei já deu 
+                    preguiça de viçar pra achar o que tem que fazer. Ler o último diálogo que tenho acesso não me esclarece muito... &lt;br&gt;
+                    Mas em compensação estou lendo Sakamoto Days em japonês! E está INTERESSANTÍSSIMO. Eu nunca achei que fosse me interessar por shounen 
+                    desse jeito. Eu li 50 capítulos &lt;strong&gt;tendo que usar dicionário&lt;/strong&gt; em &lt;strong&gt;uma semana&lt;/strong&gt;. A história é TÃO BOA. 
+                    Os caba sabe o que faz mesmo. &lt;br&gt;
+                    Algo que tenho percebido é que frequentemente tenho que conferir as mesmas palavras que já 
+                    tinha visto anteriormente, não tô pegando bem o vocabulário :/ &lt;br&gt;
+                    Tenho que ver uma maneira de fixar as palavras que pesquiso, talvez anotar num papel pra ter de referência ao invés de conferir 
+                    ali na hora e só. Vou testar. &lt;br&gt; &lt;br&gt;
+                    Aproveitar e falar sobre música, apesar de frequentemente só ouvir minha playlist com TUDO (não literalmente, são todas as músicas 
+                    que ouvi e gostei e coloquei lá) no aleatório, recentemente tenho escutado bastante 
+                    &lt;a href="https://music.youtube.com/channel/UCH4QF9-ZNyDzlLY-vBglGhQ"&gt;Astrophysics&lt;/a&gt;, mais especificamente em seu projeto 
+                    &lt;a href="https://music.youtube.com/channel/UCmrM9WpOpDWG3Nb3mhfsyzQ"&gt;SEXCORP.&lt;/a&gt;. Simplesmente música momento. Ambos os 
+                    &lt;a href="https://music.youtube.com/playlist?list=OLAK5uy_mNAyWPPdOR7XChV7YFyIVZi1gFAa3UpRs&si=OtDG_okiTb9oP185"&gt;álb&lt;/a&gt;&lt;a href="https://music.youtube.com/playlist?list=OLAK5uy_l7OuI-gPpc3IHR7TVUm9GzySKA2BV8MEk&si=iQhpTYizi4An7v83"&gt;uns&lt;/a&gt; 
+                    são muito bons, principalmente quando experienciados de uma vez, o álbum inteiro. &lt;br&gt;
+                    Também &lt;a href="https://music.youtube.com/channel/UCsrf178D7cjgbhrxfcIWcXg"&gt;Kikuo&lt;/a&gt;, especificamente 
+                    &lt;a href="https://music.youtube.com/watch?v=wnQf_5k2CUc&si=qFBqIYAUXjpFQG_P"&gt;essa&lt;/a&gt; música dele com a 
+                    &lt;a href="https://music.youtube.com/channel/UCh_J1vzZFXmYlL42Tqq4T6w?si=HSBwLV6-ssJB-Etq"&gt;花たん&lt;/a&gt; (hanatan). Estou com um 
+                    &lt;strong&gt;vício&lt;/strong&gt; enorme nessa música. De verdade. Como pode pessoas serem tão boas no que fazem. O vocal. A melodia. 
+                    A &lt;strong&gt;animação&lt;/strong&gt;. É tudo tão bom... &lt;br&gt;
+                    &lt;br&gt;
+                    E, por último e provavelmente menos importante, eu tenho tentado mexer com 3D. Não sei se é algo que vai muito pra frente porque 
+                    nem terminei o primeiro coiso que comecei no blender, por isso menos importante XD &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;br&gt;
+                    E chegamos ao fim das coisas! Isso vai dar um trabalhão pra traduzir!!! &lt;br&gt;
+                    Olhando pra trás parece bastante coisa até, mas sempre tenho impressão de que faço tão pouco... Acho que a quantidade de desenho que 
+                    eu fazia em &lt;a href="https://f.feridinha.com/0T3sb.png"&gt;2023&lt;/a&gt; me mal-acostumou... &lt;br&gt;
+                    Enfim, aqui me despeço por enquanto. Até a próxima e vicem bastante!!! Viçagem é a fonte de muita obra boa.
+                </description>
+            </item>
+            <item>
                 <title>programação momento???</title>
-                <pubDate>Mon, 24 Feb 2025 14:49:58 BRT</pubDate>
-                <link>https://navo.neocities.org</link>
-                <guid>https://navo.neocities.org</guid>
-                <description type="html">
+                <pubDate>Mon, 24 Feb 2025 14:49:58 -0300</pubDate>
+                <link>https://navo.neocities.org/#programacao</link>
+                <guid>https://navo.neocities.org/#programacao</guid>
+                <description>
                     incrivelmente a aba programação existe na página inicial :O &lt;br&gt;
                     tem coisa nova lá :D
                 </description>
             </item>
             <item>
                 <title>música nova no site</title>
-                <pubDate>Fri, 31 Jan 2025 19:29:21 BRT</pubDate>
-                <link>https://navo.neocities.org</link>
-                <guid>https://navo.neocities.org</guid>
-                <description type="html">
+                <pubDate>Fri, 31 Jan 2025 19:29:21 -0300</pubDate>
+                <link>https://navo.neocities.org/#musica</link>
+                <guid>https://navo.neocities.org/#musica</guid>
+                <description>
                     música nova no site &lt;br&gt;
                     &lt;br&gt;
                     é isto
@@ -29,10 +136,8 @@
             </item>
             <item>
                 <title>Errei fui mlk</title>
-                <pubDate>Sun, 19 Jan 2025 20:16:37 BRT</pubDate>
-                <link>https://navo.neocities.org</link>
-                <guid>https://navo.neocities.org</guid>
-                <description type="html">
+                <pubDate>Sun, 19 Jan 2025 20:16:37 -0300</pubDate>
+                <description>
                     erm...... oi &lt;br&gt;
                     venho por meio desse rosst fazer outro anúncio que percebi hoje............. &lt;br&gt;
                     lembra o início do blost anterior? era sobre cursores personalizados, e eu vi hoje que não tinha subido os arquivos do cursor...
@@ -44,10 +149,10 @@
             </item>
             <item>
                 <title>Algumas Coisas</title>
-                <pubDate>Thu, 16 Jan 2025 19:13:03 BRT</pubDate>
+                <pubDate>Thu, 16 Jan 2025 19:13:03 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost12/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost12/index.html</guid>
-                <description type="html">
+                <description>
                     Olá olá mais uma vez (○´∀`)ﾉﾞ★
                     &lt;br&gt;
                     Como já devem ter percebido, dessa vez há atualizações do site !!! &lt;br&gt;
@@ -115,19 +220,19 @@
             </item>
             <item>
                 <title>Último chost</title>
-                <pubDate>Tue, 31 Dec 2024 13:00:30 BRT</pubDate>
+                <pubDate>Tue, 31 Dec 2024 13:00:30 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost11/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost11/index.html</guid>
-                <description type="html">
+                <description>
                     Esse blost não funciona em rss, por obséquio abra em outra guia.
                 </description>
             </item>
             <item>
                 <title>Ermãs</title>
-                <pubDate>Fri, 27 Dec 2024 16:34:53 BRT</pubDate>
+                <pubDate>Fri, 27 Dec 2024 16:34:53 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost10/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost10/index.html</guid>
-                <description type="html">
+                <description>
                     Blost com alguma frequência? Em meu website?? Improvável. &lt;br&gt;
                     Brincadeiras à parte, eu terminei o desenho que eu tinha falado sobre antes :D &lt;br&gt; &lt;br&gt;
                     &lt;div class="div-imagens"&gt;
@@ -164,10 +269,10 @@
             </item>
             <item>
                 <title>Redepescando</title>
-                <pubDate>Sat, 21 Dec 2024 17:12:25 BRT</pubDate>
+                <pubDate>Sat, 21 Dec 2024 17:12:25 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost9/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost9/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;h2&gt;JOGOS&lt;/h2&gt;
                     esses tempo algo sugou minha alma. peixes legal. jogos casuais. e baldur's gate mas nós não falamos sobre isso. &lt;br&gt;
                     &lt;div style="display: flex; justify-content: center; flex-direction: column; align-items: center;"&gt;
@@ -201,10 +306,10 @@
             </item>
             <item>
                 <title>Música</title>
-                <pubDate>Wed, 04 Dec 2024 20:32:45 BRT</pubDate>
+                <pubDate>Wed, 04 Dec 2024 20:32:45 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost8/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost8/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p style="display: flex; flex-direction: column;"&gt;
                         en tão &lt;br&gt;
                         ha ha, olá. não, eu não morri, fui apenas vítima da minha falta de frequência e assunto XD &lt;br&gt;
@@ -230,10 +335,10 @@
             </item>
             <item>
                 <title>Relatório #2</title>
-                <pubDate>Sun, 17 Nov 2024 22:24:15 BRT</pubDate>
+                <pubDate>Sun, 17 Nov 2024 22:24:15 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost7/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost7/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         erm &lt;br&gt;
                         eu disse que tô fazendo uma música, certo?? então.... tá ficando assim 👍 &lt;br&gt;
@@ -250,10 +355,10 @@
             </item>
             <item>
                 <title>ENEM</title>
-                <pubDate>Mon, 11 Nov 2024 15:36:53 BRT</pubDate>
+                <pubDate>Mon, 11 Nov 2024 15:36:53 -0300</pubDate>
                 <link>https://navo.neocities.org/index.html</link>
                 <guid>https://navo.neocities.org/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         Primeiro blost exclusivo de alguma língua yippee &lt;br&gt;
                         &lt;div style="display: flex; justify-content: center;"&gt;
@@ -275,10 +380,10 @@
             </item>
             <item>
                 <title>popipo_sketch.mp4</title>
-                <pubDate>Sat, 02 Nov 2024 20:41:13 BRT</pubDate>
-                <link>https://navo.neocities.org/index.html</link>
-                <guid>https://navo.neocities.org/index.html</guid>
-                <description type="html">
+                <pubDate>Sat, 02 Nov 2024 20:41:13 -0300</pubDate>
+                <link>https://navo.neocities.org/index.html#desenho</link>
+                <guid>https://navo.neocities.org/index.html#desenho</guid>
+                <description>
                     coisa nova na página principal! &lt;br&gt;
                     é iframe então tem que ir lá ver &lt;br&gt;
                     ou clica &lt;a href="https://youtu.be/Fie-ZyQDA0E"&gt;aqui&lt;/a&gt;
@@ -287,10 +392,10 @@
             
             <item>
                 <title>Relatório #1</title>
-                <pubDate>Sat, 26 Oct 2024 13:14:42 BRT</pubDate>
+                <pubDate>Sat, 26 Oct 2024 13:14:42 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost5/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost5/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         esses tempos estou fazendo uma animação, vocês talvez reconheçam ela é um pouquinho famosa (piada) &lt;br&gt;
                         (iframe aqui, talvez não carregue)
@@ -311,10 +416,10 @@
             </item>
             <item>
                 <title>Avistamento de Fungo! ! #1</title>
-                <pubDate>Tue, 15 Oct 2024 12:23:29 BRT</pubDate>
+                <pubDate>Tue, 15 Oct 2024 12:23:29 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost4/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost4/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div class="div-imagens"&gt;
                             &lt;img class="imagem-dupla" src="/images/img-blosts/fungo1.webp" alt=""&gt;
@@ -334,10 +439,10 @@
             </item>
             <item>
                 <title>Agora temos RSS!!!</title>
-                <pubDate>Tue, 08 Oct 2024 15:29:16 BRT</pubDate>
+                <pubDate>Tue, 08 Oct 2024 15:29:16 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost3/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost3/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div style="display: flex; justify-content: center;"&gt;&lt;img style="margin: 5px; max-width: 100%;" src="/images/img-blosts/chokante.png" alt=""&gt;&lt;/div&gt;
                         É uma gambiarra que eu fiz, tem um diferente pra cada língua. (páginas com x língua redirecionam pro próprio rss) &lt;br&gt;
@@ -352,10 +457,10 @@
             </item>
             <item>
                 <title>Clube de Culinária</title>
-                <pubDate>Sun, 29 Sep 2024 12:08:28 BRT</pubDate>
+                <pubDate>Sun, 29 Sep 2024 12:08:28 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost2/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost2/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         Lembram que eu tô estudando japonês? Então, a escola que eu tô com bolsa também ensina cultura.
                         Atualmente eu faço parte do clube de costura (tamo costurando um happi, vou postar sobre depois) e às vezes temos o clube de culinária.
@@ -458,10 +563,10 @@
             </item>
             <item>
                 <title>Primeiro blost! (blog + post)</title>
-                <pubDate>Sun, 22 Sep 2024 12:08:28 BRT</pubDate>
+                <pubDate>Sun, 22 Sep 2024 12:08:28 -0300</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost1/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost1/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div style="display: flex; justify-content: center;"&gt;&lt;img style="margin: 5px;" src="https://media1.tenor.com/m/05QmcJhoSIcAAAAC/cat-silly-hello.gif" alt=""&gt;&lt;/div&gt;
                         Oi o/ &lt;br&gt;

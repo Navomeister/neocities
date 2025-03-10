@@ -33,6 +33,19 @@
     max-width: 50%;
 }
 
+.audio-blost{
+    width: 75%;
+    margin-left: 12.5%;
+    border-radius: 20px;
+    box-shadow: black 0px 0px 5px 1px;
+}
+
+.video-blost{
+    max-width: 100%;
+    border-radius: 25px;
+    box-shadow: black 0px 0px 5px 1px;
+}
+
 /* Ex: To calculate the aspect ratio for 16:9 ( (9/ 16) *100 = 56.25) */
 .caixa2-3 {
     position: relative;

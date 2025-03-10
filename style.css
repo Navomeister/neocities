@@ -256,12 +256,23 @@ footer{
     border-radius: 5px;
 }
 
+.iframe-posts{
+    width: 75%; 
+    display: flex;
+}
+
 .link-posts{
     padding-right: 1vw;
 }
 
 .img-link:hover{
     cursor: url(fontes/cursores/cursor2.png), pointer;
+}
+
+.video-post{
+    max-width: 100%;
+    border: .5vw solid var(--tertiary-bg-color);
+    border-radius: 5px;
 }
 
 #posts{

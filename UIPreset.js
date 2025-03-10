@@ -18,17 +18,18 @@ function preset(lingua) {
     footer.innerHTML = 
             `<div id="cards">
                 <a href="https://mykocalico.neocities.org/buttons" class="cards"><img src="https://64.media.tumblr.com/0d4db0b90d2cfee79a934ce56163a0b9/298a6b99507e35eb-e4/s100x200/397c38c3259c7bbb0143a3614646f348c9cb3b57.gif"></a>    
-                <a href="/images/UI/card.gif" target="_blank" class="cards"><img src="/images/UI/card.gif"></a>
+                <a href="/images/UI/card.gif" target="_blank" class="cards"><img src="/images/UI/card.gif" alt="a rede de sites"></a>
             </div>
             <div id="seguindo">
-                <a href="https://jkap.io"><img src="https://files.crime.team/site/jkap-88x31.gif"></a>
+                <a href="https://jkap.io"><img src="https://files.crime.team/site/jkap-88x31.gif" alt="jae cohost"></a>
                 <a href="https://blog.curiousquail.com" target="new"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/quailblog_8831.png" width="88" height="31" alt="small icon that reads QUAILBLOG with an image of a character with a beak"></a>
-                <a href="https://blog.radicaldream.land"><img src="https://i.postimg.cc/QxhG798p/dispatchblog-banner.gif"></a>
-                <a href="https://blog.aurahack.jp"><img src="https://aurahack.neocities.org/88x31.gif"></a>
-                <a href="https://sharkaeopteryx.neocities.org/"><img src="/images/UI/shark-button.png"></a>
-                <a href="https://pedipanol.bearblog.dev"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/pedipanol/sariatrain1x.gif"></a>
+                <a href="https://blog.radicaldream.land"><img src="https://i.postimg.cc/QxhG798p/dispatchblog-banner.gif" alt="radical dreamland"></a>
+                <a href="https://blog.aurahack.jp"><img src="https://aurahack.neocities.org/88x31.gif" alt="aurahack"></a>
+                <a href="https://sharkaeopteryx.neocities.org/"><img src="/images/UI/shark-button.png" alt="sharkaeopteryx"></a>
+                <a href="https://pedipanol.bearblog.dev"><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/pedipanol/sariatrain1x.gif" alt="os trem da saria"></a>
                 <a href="https://damien.zone" title="damien dot zone"><img src="https://damien.zone/public/88x31_damien.png" alt="damien dot zone" style="image-rendering:pixelated;" /></a>
-                <a href='https://nekoraita.art.br' target='_blank'><img src='https://nekoraita.art.br/static/resources/button.png'></a>
+                <a href='https://nekoraita.art.br' target='_blank'><img src='https://nekoraita.art.br/static/resources/button.png' alt="nekoraita.art.br"></a>
+                <a href="https://anjos.cc" target='_blank'><img src="https://anjos.cc/button/anjosa.png" alt="anjos.cc"></a>
             </div>`
     switch (lingua) {
         case "en":

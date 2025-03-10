@@ -7,11 +7,121 @@
         <description>This is where i do things</description>
         <language>en</language>
             <item>
+                <title>Report #4</title>
+                <pubDate>Mon, 10 Mar 2025 13:52:54 -0300</pubDate>
+                <link>https://navo.neocities.org/blog/blosts/blost13/eng.html</link>
+                <guid>https://navo.neocities.org/blog/blosts/blost13/eng.html</guid>
+                <description>
+                    Hi hi hi hiiiiiiiiiih i hi hiii hi hhi :D &lt;br&gt;
+                    Here for another round of Things I've done Recently Or Not So Much Recently™. There's quite a few things methinks. At least for me. &lt;br&gt;
+                    &lt;br&gt;
+                    I'll talk about them in order so it'll be easier to remember. &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;19/01 ~ 30/01&lt;/h6&gt;
+                    Firstly we have the &lt;a href="https://navomusicas.bandcamp.com/track/sillytypebeat-wav"&gt;sillytypebeat.wav&lt;/a&gt;, that's my first 
+                    iteration of vocaloid in music!! (although it's just some hastly made backing vocal :P) &lt;br&gt;
+                    Twas a lil something that came from nowhere, just playing a bit. One thing that made me want to do music was using funny samples on 
+                    it (while making it good), for example in 
+                    &lt;a href="https://music.youtube.com/watch?v=AYzh3blu010&si=QTNenQN2kHH1N73Y"&gt;these&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=7F4bV_eIZfM&si=1FPsKG_UozcaWuMr"&gt;songs&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=E9PGNRcbx-o&si=0P9Gt8DiGVNO5Sfs"&gt;i&lt;/a&gt; 
+                    &lt;a href="https://music.youtube.com/watch?v=ptuTUNGxVng&si=_j6bdBf_kdB-FUXR"&gt;hear&lt;/a&gt;. You probably don't know it but some of these 
+                    have really strange lyrics. Yeah. &lt;br&gt;
+                    Also need to talk about &lt;a href="https://music.youtube.com/watch?v=gfozEKCC1Og&si=GDW9Laj2Y-qW62ZF"&gt;this&lt;/a&gt; one. Damn. That 
+                    glitched drop. please give me more. please let me someday be able to make 10% of this &lt;br&gt;
+                    I'm still not satisfied with my mixing level buuut a year of (badly done) self learning is a really small time to learn how to 
+                    do quality stuff. Sooooooooooooooooooo i'll take this excuse for the time being till i'm satisfied with my things :D &lt;br&gt;
+                    But i think my timing is kinda good. At least the samples seem to fit in. &lt;br&gt;
+                    &lt;br&gt;
+                    There's a little something that involves Calma Calabreso (if you know you know) and Meaium Music but i didn' like it enough to show. 
+                    Maybe it'll show somewhere someday if i redo it :P &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;06/02&lt;/h6&gt;
+                    Then we have the sharks that are swimming back there :D &lt;br&gt;
+                    They're the same species that where on the old background, i just redrew and made a second frame to make them swim. Since this site is 
+                    a simple project, i made it mainly in css. Js only takes care of creation and flipping. &lt;br&gt;
+                    If you've already let the site on background for some reason, you may have noticed that they sometimes swim backwards. 
+                    Weeeeeeeeeeeeeeell... &lt;br&gt;
+                    That's because they flip based on animation iteration, so since the browser suspends the page for RAM reasons it may happen. &lt;br&gt;
+                    The random size and opacity is to give the feeling of depth, &lt;a href="https://www.nekoraita.art.br"&gt;Neko&lt;/a&gt;'s idea.&lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;11/02&lt;/h6&gt;
+                    Then there'ws another music! This one was made in 3ish hours. Made it to test some VSTs i downloaded. It is simple and didn't came out 
+                    as i wanted, but i kinda liked it.
+                    &lt;br&gt;
+                    &lt;audio src="https://f.feridinha.com/UZ5yQ.wav" controls class="audio-blost"&gt;&lt;/audio&gt;
+                    &lt;br&gt;
+                    I always miss something on the beat when trying to make a bossa novaish thing. The piano tone and percussion always sound wrong. 
+                    I didn't even get to the second piano, that is kinda the "vocal", so that's missing too.
+                    &lt;br&gt;
+                    Anywayyyy i got to test some VSTs so it's still a win !! &lt;br&gt;
+                    &lt;br&gt;
+                    Around this time i also started an animation that i NEED to get back to soon. I have an "storyboard" of it here to show wait a moment.
+                    &lt;br&gt;
+                    &lt;video src="https://f.feridinha.com/SW9rS.mp4" controls class="video-blost"&gt;&lt;/video&gt;
+                    &lt;br&gt;
+                    It is meant to be a &lt;strong&gt;simple&lt;/strong&gt; thing. I shall mantain it &lt;strong&gt;simple&lt;/strong&gt; and shalln't make it 
+                    &lt;strong&gt;complicated&lt;/strong&gt;. &lt;br&gt;
+                    And a drawing of OCs, also in progress. And also something i need to &lt;strong&gt;go back soon&lt;/strong&gt;. No preview because it's 
+                    still kinda raw soooo.&lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;23/02&lt;/h6&gt;
+                    The &lt;a href="https://github.com/Navomeister/musicathon/"&gt;Subathonic Music Box&lt;/a&gt;!! &lt;br&gt;
+                    Quick project of 2 days, would be cooler if it was an actual music box but i'm not a hardware person :P &lt;br&gt;
+                    Some of the funny fonts glitches cuz they don't have some of the characters, but that's also funny so i let it in. Just don't look 
+                    at the site's &lt;strong&gt;console&lt;/strong&gt; and you should be fine. &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;h6&gt;18/02 ~ 04/03&lt;/h6&gt;
+                    We got to the day this blost was written, and to the newest project added to the main page! &lt;br&gt;
+                    &lt;video src="https://f.feridinha.com/LyD1t.mp4" controls class="video-blost"&gt;&lt;/video&gt;
+                    &lt;br&gt;
+                    It's a cover to learn how to vocaloid, but i &lt;strong&gt;overcomplicated&lt;/strong&gt; it. You may have noticed while watching it but i 
+                    &lt;strong&gt;don't&lt;/strong&gt; know how to edit. It is not one of my hobbies/interests. But it is something i'll need to learn to improve 
+                    other things, i guess. I'm doing so much and making so little at the same time....................................... &lt;br&gt;
+                    I already changed the vocal 3 times after exporting the video, and there's still things i find to change while listening again. 
+                    but i'll never finish this &lt;strong&gt;study&lt;/strong&gt; cover if i keep at this. I need to sav the perfeccionism for 
+                    &lt;strong&gt;actual projects&lt;/strong&gt; and not &lt;strong&gt;training projects&lt;/strong&gt;. &lt;br&gt;
+                    Anyways, the &lt;a href="/images/desenhos/テトを上げな.png"&gt;art&lt;/a&gt; if you want to see it closer (would not recommend) &lt;br&gt;
+                    &lt;br&gt;
+                    These things aside, i'm still studying japanese. Although Dragon Quest is now kinda on hold... It was more interesting on my 
+                    memory, i guess replaying the same thing a few times takes a toll on it's fun. On the first time i got a bit stuck i already got 
+                    lazy to look around. And reading the last story dialogue doesn't make things clear for me... &lt;br&gt;
+                    But on the upside, i'm reading Sakamoto Days in japanese! And it's SO INTERESTING. I never thought i would be this invested on 
+                    shounen manga. I read 50 chapters &lt;strong&gt;while using dictionary&lt;/strong&gt; in &lt;strong&gt;a week&lt;/strong&gt;. The story is SO GOOD. They 
+                    really knew what they were doing. &lt;br&gt;
+                    Something i've been noticing is that i frequently have to search for the same words i had already seen before, haven't been 
+                    getting the vocabulary well :/ &lt;br&gt;
+                    I have to find some way to remember the words i search for, maybe taking notes phisically could help instead of just searching for 
+                    it when it is convenient. I'll try it out. &lt;br&gt; &lt;br&gt;
+                    I'll take the chance to talk about music as well. Although i tend to hear only my EVERYTHING playlist (aka everything i've heard 
+                    and liked) on random, i've also been chain-listening to 
+                    &lt;a href="https://music.youtube.com/channel/UCH4QF9-ZNyDzlLY-vBglGhQ"&gt;Astrophysics&lt;/a&gt;, to be more specific their project
+                    &lt;a href="https://music.youtube.com/channel/UCmrM9WpOpDWG3Nb3mhfsyzQ"&gt;SEXCORP.&lt;/a&gt;. Absolute music. Both their
+                    &lt;a href="https://music.youtube.com/playlist?list=OLAK5uy_mNAyWPPdOR7XChV7YFyIVZi1gFAa3UpRs&si=OtDG_okiTb9oP185"&gt;alb&lt;/a&gt;&lt;a href="https://music.youtube.com/playlist?list=OLAK5uy_l7OuI-gPpc3IHR7TVUm9GzySKA2BV8MEk&si=iQhpTYizi4An7v83"&gt;ums&lt;/a&gt; 
+                    are really good, even more when listening to the entire album on one go. &lt;br&gt;
+                    Also &lt;a href="https://music.youtube.com/channel/UCsrf178D7cjgbhrxfcIWcXg"&gt;Kikuo&lt;/a&gt;, specifically  
+                    &lt;a href="https://music.youtube.com/watch?v=wnQf_5k2CUc&si=qFBqIYAUXjpFQG_P"&gt;this&lt;/a&gt; song they made with  
+                    &lt;a href="https://music.youtube.com/channel/UCh_J1vzZFXmYlL42Tqq4T6w?si=HSBwLV6-ssJB-Etq"&gt;花たん&lt;/a&gt; (hanatan). I'm literally 
+                    &lt;strong&gt;addicted&lt;/strong&gt; to this song. Truly. How can people be so good in what they do. The vocal. The song. The 
+                    &lt;strong&gt;animation&lt;/strong&gt;. Everything is so good... &lt;br&gt;
+                    &lt;br&gt;
+                    Lastly and prolly less important, i'm trying to mess with 3D. Dunno if it's something that will last long cuz i haven't even 
+                    finished my first thing on blender, so yeah prolly less important XD &lt;br&gt;
+                    &lt;br&gt;
+                    &lt;br&gt;
+                    And were done with the Things™! This will be so much work to translate!!! &lt;br&gt;
+                    Looking back kinda seems like a lot of things, but i always feel like i do so little... I guess the quantity of drawings used to do 
+                    in &lt;a href="https://f.feridinha.com/0T3sb.png"&gt;2023&lt;/a&gt; spoiled me a bit... &lt;br&gt;
+                    Anyways, here's where i'll be bidding my tinkerty-tonks. Cya and fuck around with things!!! fucking around is the means to finding 
+                    out and the origin of many good things.
+                </description>
+            </item>
+            <item>
                 <title>wdym i know how to code???</title>
                 <pubDate>Mon, 24 Feb 2025 14:49:58 BRT</pubDate>
-                <link>https://navo.neocities.org/eng</link>
-                <guid>https://navo.neocities.org/eng</guid>
-                <description type="html">
+                <link>https://navo.neocities.org/eng#programacao</link>
+                <guid>https://navo.neocities.org/eng#programacao</guid>
+                <description>
                     woah the index actually have a programming tab. neat &lt;br&gt;
                     anyway there's a little something there :D
                 </description>
@@ -19,9 +129,9 @@
             <item>
                 <title>new song in main page</title>
                 <pubDate>Fri, 31 Jan 2025 19:29:21 BRT</pubDate>
-                <link>https://navo.neocities.org/eng</link>
-                <guid>https://navo.neocities.org/eng</guid>
-                <description type="html">
+                <link>https://navo.neocities.org/eng#musica</link>
+                <guid>https://navo.neocities.org/eng#musica</guid>
+                <description>
                     new song in main page &lt;br&gt;
                     &lt;br&gt;
                     that's it
@@ -30,9 +140,7 @@
             <item>
                 <title>Mistakes were made</title>
                 <pubDate>Sun, 19 Jan 2025 20:16:37 BRT</pubDate>
-                <link>https://navo.neocities.org/eng</link>
-                <guid>https://navo.neocities.org/eng</guid>
-                <description type="html"> 
+                <description> 
                     um........ hi &lt;br&gt;
                     so, this rosst is to make some corrections about somethings i realized today................... &lt;br&gt;
                     about the site changes i said on last blost? it was custom cursors, and i realized the files didn't upload... &lt;br&gt;
@@ -46,7 +154,7 @@
                 <pubDate>Thu, 16 Jan 2025 19:13:03 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost12/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost12/eng.html</guid>
-                <description type="html">
+                <description>
                     Hello hello again (○´∀`)ﾉﾞ★
                     &lt;br&gt;
                     As you may have already seen, there's a little change on the site !!! &lt;br&gt;
@@ -117,7 +225,7 @@
                 <pubDate>Tue, 31 Dec 2024 13:00:30 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost11/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost11/eng.html</guid>
-                <description type="html">
+                <description>
                     This blost doesn't work in rss, please open in another tab.
                 </description>
             </item>
@@ -126,7 +234,7 @@
                 <pubDate>Fri, 27 Dec 2024 16:34:53 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost10/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost10/eng.html</guid>
-                <description type="html">
+                <description>
                     Blost with some frequency? In my website?? Unlikely. &lt;br&gt;
                     Jokes aside, i finished the rawing i said i was doing :D &lt;br&gt; &lt;br&gt;
                     &lt;div class="div-imagens"&gt;
@@ -166,7 +274,7 @@
                 <pubDate>Sat, 21 Dec 2024 17:12:25 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost9/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost9/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;h2&gt;GAMES&lt;/h2&gt;
                     recently one thing took a lot of my time. cool fishes. casual games. and baldur's gate but we don't talk about it. &lt;br&gt;
                     &lt;div style="display: flex; justify-content: center; flex-direction: column; align-items: center;"&gt;
@@ -204,7 +312,7 @@
                 <pubDate>Wed, 04 Dec 2024 20:32:45 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost8/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost8/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p style="display: flex; flex-direction: column;"&gt;
                         so &lt;br&gt;
                         ha ha, hello. no, i didn't die, i was just beaten by my lack of frequncy and things to talk about XD &lt;br&gt;
@@ -233,7 +341,7 @@
                 <pubDate>Sun, 17 Nov 2024 22:24:15 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost7/index.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost7/index.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         ehem &lt;br&gt;
                         i said i an making a music, right?? so.... this is how it is doing till now 👍 &lt;br&gt;
@@ -250,9 +358,9 @@
             <item>
                 <title>popipo_sketch.mp4</title>
                 <pubDate>Sat, 02 Nov 2024 20:41:13 BRT</pubDate>
-                <link>https://navo.neocities.org/eng.html</link>
-                <guid>https://navo.neocities.org/eng.html</guid>
-                <description type="html">
+                <link>https://navo.neocities.org/eng.html#desenho</link>
+                <guid>https://navo.neocities.org/eng.html#desenho</guid>
+                <description>
                     new thing on main page! &lt;br&gt;
                     it's an iframe, so you'll need to go there to see &lt;br&gt;
                     or click &lt;a href="https://youtu.be/Fie-ZyQDA0E"&gt;here&lt;/a&gt;
@@ -263,7 +371,7 @@
                 <pubDate>Sat, 26 Oct 2024 13:14:42 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost5/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost5/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         recently i've been doing an animation, maybe you know where it comes from it's a bit famous (joke) &lt;/div&gt;
                         (iframe here, maybe won't load)
@@ -287,7 +395,7 @@
                 <pubDate>Tue, 15 Oct 2024 12:23:29 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost4/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost4/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div class="div-imagens"&gt;
                             &lt;img class="imagem-dupla" src="/images/img-blosts/fungo1.webp" alt=""&gt;
@@ -310,7 +418,7 @@
                 <pubDate>Tue, 08 Oct 2024 15:29:16 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost3/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost3/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div style="display: flex; justify-content: center;"&gt;&lt;img style="margin: 5px; max-width: 100%;" src="/images/img-blosts/chokante.png" alt=""&gt;&lt;/div&gt;
                         It's an improvised one i made, there's one for each language. (pages with x language redirect to it's own rss) &lt;br&gt;
@@ -328,7 +436,7 @@
                 <pubDate>Sun, 29 Sep 2024 12:08:28 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost2/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost2/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         Remember that i'm studying japanese? So, the school i got a one year scholarship is a "language and culture school". 
                         I'm currently on the sewing club (were sewing a happi, will post about it sometime later) and sometimes we have a culinary class. 
@@ -433,7 +541,7 @@
                 <pubDate>Sun, 22 Sep 2024 12:08:28 BRT</pubDate>
                 <link>https://navo.neocities.org/blog/blosts/blost1/eng.html</link>
                 <guid>https://navo.neocities.org/blog/blosts/blost1/eng.html</guid>
-                <description type="html">
+                <description>
                     &lt;p&gt;
                         &lt;div style="display: flex; justify-content: center;"&gt;&lt;img style="margin: 5px;" src="https://media1.tenor.com/m/05QmcJhoSIcAAAAC/cat-silly-hello.gif" alt=""&gt;&lt;/div&gt;
                         Hi o/ &lt;br&gt;
