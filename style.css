@@ -290,15 +290,16 @@ footer{
 }
 
 #seguindo{
-    display: flex;
-    align-items: center;
+    max-width: 90%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 88px));
     justify-content: center;
-    flex-wrap: wrap;
+    gap: .5rem;
+    padding: 1rem;
 }
 
-#seguindo a {
-    margin-right: .25rem;
-    margin-left: .25rem;
+#seguindo img:hover{
+    cursor: url(fontes/cursores/cursor2.png), pointer;
 }
 
 @media (width >= 1280px) {
