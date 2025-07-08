@@ -289,6 +289,13 @@ footer{
     align-self: flex-end;
 }
 
+.cards{
+    display: inline-block;
+    margin: 5px; 
+    max-height: 31px;
+    width: 88px;
+}
+
 #seguindo{
     max-width: 90%;
     display: grid;
@@ -398,10 +405,6 @@ footer{
             transform: translateY(-20px);
         }
     }
-}
-
-.cards{
-    margin: 5px; 
 }
 
 #botaoT{
