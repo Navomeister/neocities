@@ -298,6 +298,10 @@ footer{
     padding: 1rem;
 }
 
+#seguindo a{
+    max-height: 31px;
+}
+
 #seguindo img:hover{
     cursor: url(fontes/cursores/cursor2.png), pointer;
 }
