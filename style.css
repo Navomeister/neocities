@@ -318,7 +318,7 @@ footer{
         width: 50vw;
     }
     #modal {
-        height: 50vw;
+        width: 45vw;
     }
 
     @keyframes nadando {
@@ -347,7 +347,7 @@ footer{
         width: 75vw;
     }
     #modal {
-        width: 75vw;
+        width: 65vw;
     }
 
     @keyframes nadando {
@@ -418,6 +418,32 @@ footer{
     transform: translate(-50%, -50%);
 }
 
+#imgModal{
+    max-width: 100%;
+}
+
+#bgTextoAlt{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    /*animation: txtAltFade 2s linear forwards;*/
+}
+
+.fade-out{
+    animation: .125s linear forwards fadeOut;
+}
+
+.fade-in{
+    animation: .125s linear forwards fadeIn;
+}
+
+#modalAlt{
+    padding: 1vw;
+    text-align: left;
+}
+
 .expandivel{
     cursor: url(fontes/cursores/cursor2.png), pointer;
 }
@@ -429,5 +455,25 @@ footer{
 
     100%{
         box-shadow: 0px 0px 10px white;
+    }
+}
+
+@keyframes fadeOut {
+    0%{
+        opacity: 100%;
+    }
+
+    100%{
+        opacity: 0%;
+    }
+}
+
+@keyframes fadeIn {
+    0%{
+        opacity: 0%;
+    }
+
+    100%{
+        opacity: 100%;
     }
 }
