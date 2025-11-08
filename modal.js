@@ -61,6 +61,6 @@ function abreModal(img, alt) {
         altBg.style.visibility = "visible"
     }
     textoAlt.textContent = alt
-    altBg.classList.add("fade-in")
+    altBg.classList = "fade-in"
     botaoT.click()
 }
